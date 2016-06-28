@@ -1,0 +1,7 @@
+.idea
+*.iml
+/API/
+.DS_Store
+target
+Example/target
+Website/javadocs
